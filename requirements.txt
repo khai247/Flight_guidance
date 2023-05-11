@@ -1,0 +1,17 @@
+certifi @ file:///C:/b/abs_85o_6fm0se/croot/certifi_1671487778835/work/certifi
+dronekit==2.9.2
+dronekit-sitl==3.3.0
+future==0.18.3
+lxml==4.9.2
+monotonic==1.6
+numpy==1.21.6
+opencv-contrib-python==4.7.0.72
+opencv-python==4.7.0.72
+pandas==1.3.5
+Pillow==9.5.0
+psutil==5.9.5
+pymavlink==2.4.37
+python-dateutil==2.8.2
+pytz==2023.3
+six==1.16.0
+wincertstore==0.2
